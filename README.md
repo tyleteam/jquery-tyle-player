@@ -5,7 +5,7 @@ Tyle Player is a javascript player for contents images like newscard, social gra
 
 [![ScreenShot](./etc/screenshot.png)](https://www.youtube.com/watch?v=pjcGwRyaqY0)
 
-You can check the detailed demos [here](https://tyle.io/cards).
+You can check the detailed demos [here](https://tyle.io/cards) and 
 
 
 ##Browser Support
@@ -13,6 +13,7 @@ You can check the detailed demos [here](https://tyle.io/cards).
 IE 9+, Chrome, Firefox, Safari, Opera (including Mobile devices).
 
 ##Usage
+You can also see the example on [http://codepen.io/zidell/pen/MbErOE](http://codepen.io/zidell/pen/MbErOE)
 ```html
 <head>
     <link href="https://cdn.rawgit.com/tyleteam/jquery-tyle-player/master/dist/jquery-tyle-player.min.css" rel="stylesheet" />
