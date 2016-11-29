@@ -12,12 +12,30 @@ You can check the detailed demos [here](https://tyle.io/cards).
 
 IE 9+, Chrome, Firefox, Safari, Opera (including Mobile devices).
 
+##Usage
+```html
+<head>
+    <link href="https://cdn.rawgit.com/tyleteam/jquery-tyle-player/master/dist/jquery-tyle-player.min.css" rel="stylesheet" />
+    <script src="https://cdn.rawgit.com/tyleteam/jquery-tyle-player/master/dist/jquery-tyle-player.min.js"></script>
+</head>
+<body>
+    <div id="#container"></div>
+    
+    <script>
+        $('#container').tylePlayer([
+            'https://....jpg',
+            'https://....jpg'
+        ]);
+    </script>
+</body>
+```
+
 
 ##Options
 
 The Tyle Player has several properties and events to interact with the control programmatically.
 ```javascript
-$(selectol).tylePlayer([
+$(selector).tylePlayer([
     'https://....jpg',
     'https://....jpg',
     'https://....jpg'
