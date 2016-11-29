@@ -20,7 +20,7 @@ The Tyle Player has several properties and events to interact with the control p
 $(selectol).tylePlayer([
     'https://....jpg',
     'https://....jpg',
-    'https://....jpg',
+    'https://....jpg'
 ],
 {
     width: 510,
