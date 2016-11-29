@@ -29,7 +29,7 @@ IE 9+, Chrome, Firefox, Safari, Opera (including Mobile devices).
 The roundSlider has several properties and events to interact with the control programmatically.
 
 To know more about the Options, please check the documentation.
-
+```
 $(selectol).tylePlayer([
     'https://....jpg',
     'https://....jpg',
@@ -59,6 +59,7 @@ $(selectol).tylePlayer([
         console.log("replay");
     }
 });
+```
 
 ##Some quick links
 How to use ?
