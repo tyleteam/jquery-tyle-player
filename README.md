@@ -16,11 +16,13 @@ By customizing the CSS styles we can make different appearances.
 
 roundSlider - different theming and appearances
 
-You can check the detailed demos here.
+You can check the detailed demos [here](https://tyle.io/cards).
+
 
 ##Browser Support
 
 IE 9+, Chrome, Firefox, Safari, Opera (including Mobile devices).
+
 
 ##Options
 
@@ -28,42 +30,41 @@ The roundSlider has several properties and events to interact with the control p
 
 To know more about the Options, please check the documentation.
 
-    $("#slider").roundSlider({
-        min: 0,
-        max: 100,
-        step: 1,
-        value: null,
-        radius: 85,
-        width: 16,
-        handleSize: "+0",
-        startAngle: 0,
-        endAngle: "+360",
-        animation: true,
-        showTooltip: true,
-        editableTooltip: true,
-        readOnly: false,
-        disabled: false,
-        keyboardAction: true,
-        mouseScrollAction: false,
-        sliderType: "default",
-        circleShape: "full",
-        handleShape: "round",
-        lineCap: "square",
+$(selectol).tylePlayer([
+    'https://....jpg',
+    'https://....jpg',
+    'https://....jpg',
+],
+{
+    width: 510,
+    height: 510,
+    background: '#000',
+    enablePageIndicator : true,
+    enableFullscreen : true,
+    lastSlideLabel : 'AI Design Tool',
+    lastSlideLink : 'https://tyle.io',
+    onStart : function(){
+        console.log("onStart");
+    },
+    onEnd : function(){
+        console.log("onEnd");
+    },
+    onNext : function(slideNo){
+        console.log("next slideNo", slideNo);
+    },
+    onPrev : function(slideNo){
+        console.log("prev slideNo", slideNo);
+    },
+    onReplay : function(){
+        console.log("replay");
+    }
+});
 
-        // events
-        beforeCreate: null,
-        create: null,
-        start: null,
-        drag: null,
-        change: null,
-        stop: null,
-        tooltipFormat: null
-    });
-Some quick links
-
+##Some quick links
 How to use ?
 Customizations
 Different Theming
-Licence
 
+
+##Licence
 Tyle Player is licensed under the terms of the MIT license.
