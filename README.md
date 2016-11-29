@@ -29,7 +29,7 @@ IE 9+, Chrome, Firefox, Safari, Opera (including Mobile devices).
 The roundSlider has several properties and events to interact with the control programmatically.
 
 To know more about the Options, please check the documentation.
-```
+```javascript
 $(selectol).tylePlayer([
     'https://....jpg',
     'https://....jpg',
@@ -68,4 +68,4 @@ Different Theming
 
 
 ##Licence
-Tyle Player is licensed under the terms of the MIT license.
+Tyle Player is licensed under the terms of the [MIT license](http://roundsliderui.com/licence.html).
