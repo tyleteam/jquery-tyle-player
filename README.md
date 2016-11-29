@@ -16,8 +16,8 @@ IE 9+, Chrome, Firefox, Safari, Opera (including Mobile devices).
 You can also see the example on [http://codepen.io/zidell/pen/MbErOE](http://codepen.io/zidell/pen/MbErOE)
 ```html
 <head>
-    <link href="https://cdn.rawgit.com/tyleteam/jquery-tyle-player/master/dist/jquery-tyle-player.min.css" rel="stylesheet" />
-    <script src="https://cdn.rawgit.com/tyleteam/jquery-tyle-player/master/dist/jquery-tyle-player.min.js"></script>
+    <link href="https://d1s0awd0642fry.cloudfront.net/web/plugin/jquery-tyle-player-0.1.0/dist/jquery-tyle-player.min.css" rel="stylesheet" />
+    <script src="https://d1s0awd0642fry.cloudfront.net/web/plugin/jquery-tyle-player-0.1.0/dist/jquery-tyle-player.min.js"></script>
 </head>
 <body>
     <div id="#container"></div>
