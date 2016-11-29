@@ -15,9 +15,7 @@ IE 9+, Chrome, Firefox, Safari, Opera (including Mobile devices).
 
 ##Options
 
-The roundSlider has several properties and events to interact with the control programmatically.
-
-To know more about the Options, please check the documentation.
+The Tyle Player has several properties and events to interact with the control programmatically.
 ```javascript
 $(selectol).tylePlayer([
     'https://....jpg',
