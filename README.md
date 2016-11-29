@@ -24,8 +24,9 @@ You can also see the example on [http://codepen.io/zidell/pen/MbErOE](http://cod
     
     <script>
         $('#container').tylePlayer([
-            'https://....jpg',
-            'https://....jpg'
+            'https://d1s0awd0642fry.cloudfront.net/cards.images/Bz/BzHbuJcmdH39dhtKa_cont.png',
+            'https://d1s0awd0642fry.cloudfront.net/cards.images/eK/eK6faxWbRivP7y5zE_cont.png',
+            'https://d1s0awd0642fry.cloudfront.net/cards.images/Ek/EkM3BqNtd8GPKiX7w_cont.png'
         ]);
     </script>
 </body>
