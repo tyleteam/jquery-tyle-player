@@ -80,7 +80,7 @@
 
             $player = $([
                 '<div class="tyle-card-wrapper">',
-                    '<img src="/i/1x1.png" alt="" class="tyle-ratio">',
+                    '<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" class="tyle-ratio">',
                     '<div class="tyle-progress-bar" data-rows="',(slides.length),'">',
                         '1/',(slides.length),
                     '</div>',
