@@ -3,7 +3,7 @@
 ##What's this ?
 Tyle Player is a javascript player for contents images like newscard, social graphics, and so on. It supports all of the major browsers.
 
-[![ScreenShot](./etc/screenshot.png)](https://www.youtube.com/watch?v=pjcGwRyaqY0)
+![ScreenShot](./etc/tyle_player.gif)
 
 You can check the detailed demos [here](https://tyle.io/cards) and 
 
