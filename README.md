@@ -1,20 +1,9 @@
 #Tyle Player - A free jQuery plugin
 
 ##What's this ?
+Tyle Player is a javascript player for contents images like newscard, social graphics, and so on. It supports all of the major browsers.
 
-Round slider (also can call as Circular slider, Radial slider) is a jQuery plugin that allows the user to select a value or range of values.
-
-Not only a round slider, it supports the quarter, half and pie circle shapes also.
-
-roundSlider - full slider, pie slider, half slider and quarter slider types
-
-You can check the demos of various circle shapes here.
-
-Different Theming and Appearances ?
-
-By customizing the CSS styles we can make different appearances.
-
-roundSlider - different theming and appearances
+![](img/demo.gif);
 
 You can check the detailed demos [here](https://tyle.io/cards).
 
