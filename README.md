@@ -20,7 +20,7 @@ You can also see the example on [http://codepen.io/zidell/pen/MbErOE](http://cod
     <script src="https://d1s0awd0642fry.cloudfront.net/web/plugin/jquery-tyle-player-0.1.0/dist/jquery-tyle-player.min.js"></script>
 </head>
 <body>
-    <div id="#container"></div>
+    <div id="container"></div>
     
     <script>
         $('#container').tylePlayer([
